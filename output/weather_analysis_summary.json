@@ -1,0 +1,13 @@
+{
+    "average_temperatures": {
+        "London": 13.05,
+        "New York": 3.72,
+        "Tokyo": 9.28
+    },
+    "top_weather_conditions": {
+        "overcast clouds": 7,
+        "broken clouds": 7,
+        "clear sky": 7
+    },
+    "average_sentiment_polarity": -0.09999999999999998
+}

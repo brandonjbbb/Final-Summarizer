@@ -1,0 +1,22 @@
+city,date,temperature,description,polarity
+New York,2024-12-05,3.72,overcast clouds,0.0
+New York,2024-12-04,3.72,overcast clouds,0.0
+New York,2024-12-03,3.72,overcast clouds,0.0
+New York,2024-12-02,3.72,overcast clouds,0.0
+New York,2024-12-01,3.72,overcast clouds,0.0
+New York,2024-11-30,3.72,overcast clouds,0.0
+New York,2024-11-29,3.72,overcast clouds,0.0
+London,2024-12-05,13.05,broken clouds,-0.4
+London,2024-12-04,13.05,broken clouds,-0.4
+London,2024-12-03,13.05,broken clouds,-0.4
+London,2024-12-02,13.05,broken clouds,-0.4
+London,2024-12-01,13.05,broken clouds,-0.4
+London,2024-11-30,13.05,broken clouds,-0.4
+London,2024-11-29,13.05,broken clouds,-0.4
+Tokyo,2024-12-05,9.28,clear sky,0.09999999999999999
+Tokyo,2024-12-04,9.28,clear sky,0.09999999999999999
+Tokyo,2024-12-03,9.28,clear sky,0.09999999999999999
+Tokyo,2024-12-02,9.28,clear sky,0.09999999999999999
+Tokyo,2024-12-01,9.28,clear sky,0.09999999999999999
+Tokyo,2024-11-30,9.28,clear sky,0.09999999999999999
+Tokyo,2024-11-29,9.28,clear sky,0.09999999999999999
